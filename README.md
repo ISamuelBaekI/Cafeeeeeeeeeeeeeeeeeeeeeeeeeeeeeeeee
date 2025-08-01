@@ -1,15 +1,6 @@
-# 🗨️ Mini Chat com Servidor (Node.js + Express)
+# ☕ Projeto de Venda de Café - Cliente, Vendedor e Servidor
 
-Este é um projeto simples de um sistema de chat local onde várias pessoas podem enviar mensagens, e todas são exibidas em tempo real (com atualização automática a cada segundo). As mensagens são armazenadas apenas na memória do servidor (sem banco de dados).
+Este é um sistema simples de **venda de café** feito com **React Native (Expo)** para os aplicativos, e **Node.js + Express** para o servidor.
 
----
-
-## 🚀 Tecnologias usadas
-
-- **Frontend**: HTML, CSS, JavaScript puro
-- **Backend**: Node.js com Express
-
----
-
-## 📁 Estrutura de pastas
+## 📦 Estrutura do Projeto
 
